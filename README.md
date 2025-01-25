@@ -6,7 +6,7 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Cursor](https://img.shields.io/badge/Cursor-IDE-blue)](https://cursor.sh)
 
-<img src="/Users/rajesh/AIML/Open with Cursor fr Mac/cursorlogo.png" width="120" alt="Cursor Logo">
+<img src="cursorlogo.png" width="120" alt="Cursor Logo">
 
 *Seamlessly integrate Cursor IDE into your macOS Finder for an enhanced development workflow*
 
